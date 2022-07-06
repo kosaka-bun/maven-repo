@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 14 17:33:13 CST 2021
+https\://jcenter.bintray.com/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://jcenter.bintray.com/.lastUpdated=1602538777960
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1610616793411
